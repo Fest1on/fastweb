@@ -1,4 +1,4 @@
-![Logo FastWeb](fastweb/Logo.png)
+![Logo FastWeb](Logo.png)
 
 **FastWeb** is a simple and user-friendly Open Source program that allows you to instantly open more than 20 websites of your choice. With
 
